@@ -41,8 +41,7 @@
   <a href="https://www.linkedin.com/in/gabrielli-virgilio/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=ed82bf&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
-  <a href="mailto:gabivirgilio@outlook.com?subject=Olá&body=Gostaria%20de%20falar%20sobre...
-" target="_blank">
+  <a href="mailto:gabivirgilio@outlook.com?subject=Olá&body=Gostaria%20de%20falar%20sobre..." target="_blank">
     <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=ed82bf&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="microsoft-outlook logo"  />
   </a>
 </div>
@@ -51,6 +50,4 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/gabisvs/gabisvs/output/snake.svg" alt="Snake animation" />
-
-###
+<img src="https://github.com/gabisvs/gabisvs/blob/output/snake.svg" alt="Snake animation" />
