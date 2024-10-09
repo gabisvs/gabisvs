@@ -50,4 +50,6 @@
 
 <br clear="both">
 
-<img src="https://github.com/gabisvs/gabisvs/blob/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/gabisvs/gabisvs/output/snake.svg" alt="Snake animation" />
+
+###
